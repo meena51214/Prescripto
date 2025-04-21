@@ -1,2 +1,2 @@
 # Prescripto
-This my git Hub link
+This my git Hub repositary name.
